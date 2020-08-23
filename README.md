@@ -6,11 +6,11 @@ What you will see here is a functional application with working links and respon
 
 ## About Me Page
 This page includes information about me. This page also includes a headshot to be updated with a better quality one in the near future. 
-/Users/solaguirre/Desktop/Screen Shot 2020-08-22 at 10.25.33 PM.png
+![alt text](aboutmeSC)
 
 ## Portfolio
 This page has my projects linked. It also has links to my professional resume and my teacher portfolio.
-/Users/solaguirre/Desktop/Screen Shot 2020-08-22 at 10.31.14 PM.png
+![alt text](portfolioSC)
 ## Contact Me
 The contact page has a form to e-mail me as well as links to my social media. 
-/Users/solaguirre/Desktop/Screen Shot 2020-08-22 at 10.31.20 PM.png
+![alt text](/Users/solaguirre/Desktop/ClassRepo/solaguirre.github.io/assets/images/contactSC.png)
