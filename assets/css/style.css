@@ -13,11 +13,19 @@
     list-style-type: none;
 }
 
-.container ul li, .footer {
+.container ul li{
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 15px;
 }
 
 .col {
     align-self: start;
 }
+
+.footer ul{
+    list-style-type: none;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-left: 25px;
