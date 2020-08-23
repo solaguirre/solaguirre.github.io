@@ -1,0 +1,13 @@
+
+.container ul {
+    list-style-type: none;
+}
+
+.container ul li, .footer {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.col {
+    align-self: start;
+}
