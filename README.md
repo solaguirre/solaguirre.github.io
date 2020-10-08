@@ -29,11 +29,11 @@ What you will see here is a functional application with working links and respon
 
 ## About Me Page
 This page includes information about me. This page also includes a headshot to be updated with a better quality one in the near future. 
-[![aboutme-SC.png](https://i.postimg.cc/QxS2pTqf/aboutme-SC.png)](https://postimg.cc/0bMXvrFS)
+[![Screen-Shot-2020-10-07-at-11-48-21-PM.png](https://i.postimg.cc/L5pxM6Zj/Screen-Shot-2020-10-07-at-11-48-21-PM.png)](https://postimg.cc/gXgVVps0)
 
 ## Portfolio
 This page has my projects linked. For now there are placeholder images and text. It also has links to my professional resume and my teacher portfolio.
-[![portfolio-SC.png](https://i.postimg.cc/vHPK1dQj/portfolio-SC.png)](https://postimg.cc/dLy6XpZm)
+[![Screen-Shot-2020-10-07-at-11-48-31-PM.png](https://i.postimg.cc/XJFshyXV/Screen-Shot-2020-10-07-at-11-48-31-PM.png)](https://postimg.cc/348j0Ng6)
 
 ## Contact Me
 ### Marisol Aguirre
