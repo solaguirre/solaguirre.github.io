@@ -21,6 +21,12 @@ This is the start of my professional portfolio. I have included an About Me page
 
 What you will see here is a functional application with working links and responsive images. The Nav bar is consisten on each page, and has links that let you navigate between the pages. The portfolio has my personal information, including a resume and an external teacher porfolio. 
 
+## Created With
+
+* HTML
+* CSS
+* Bootstrap
+
 ## About Me Page
 This page includes information about me. This page also includes a headshot to be updated with a better quality one in the near future. 
 [![aboutme-SC.png](https://i.postimg.cc/QxS2pTqf/aboutme-SC.png)](https://postimg.cc/0bMXvrFS)
