@@ -36,11 +36,12 @@ This page has my projects linked. For now there are placeholder images and text.
 [![portfolio-SC.png](https://i.postimg.cc/vHPK1dQj/portfolio-SC.png)](https://postimg.cc/dLy6XpZm)
 
 ## Contact Me
-
 ### Marisol Aguirre
-* Junior Full Stack Developer - UA Coding Bootcamp
-* Contact: soulaguirre@gmail.com
-* GitHub: https://github.com/solaguirre
+
+* [Junior Full Stack Developer - UA Coding Bootcamp](https://www.linkedin.com/in/marisol-aguirre-93688296/)
+* [GitHub Profile](https://github.com/solaguirre)
+* [E-mail](soulaguirre@gmail.com)
+* [Professional Resume](assets/professionalresume.pdf)
 
 * Project Link: [https://solaguirre.github.io/](https://solaguirre.github.io/)
 
