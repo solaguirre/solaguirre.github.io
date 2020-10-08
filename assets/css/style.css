@@ -1,5 +1,12 @@
 
-.container2 {
+#column {
+    border: 80px;
+    border-color: tomato;
+    padding-inline-start: 20px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
     
 }
 .col h2{
@@ -19,7 +26,7 @@
 }
 
 .col {
-    align-self: start;
+    align-self: flex-start;
 }
 
 .footer ul{
@@ -29,3 +36,6 @@
 .footer ul li {
     display: inline-block;
     margin-left: 25px;
+}
+.btn { padding-top: 16px;
+ }
