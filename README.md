@@ -1,5 +1,22 @@
-# solaguirre.github.io
-## Personal Portfolio
+# Personal Portfolio
+<p align="center">
+<i class="fas fa-globe-americas"></i>
+
+  <h3 align="center"><strong>My Portfolio</strong></h3>
+
+  <p align="center">
+    My current professional porfolio. I am a junior full stack engineer and developer. 
+    <br />
+    <br />
+    <a href="https://solaguirre.github.io/"><strong>View Portfolio »</strong></a>
+    <br />
+    <br />
+   
+  </p>
+</p>
+
+## solaguirre.github.io
+
 This is the start of my professional portfolio. I have included an About Me page, a Portfolio page and a Contact Page. There are only placeholder images for now, since we haven't completed any major projects.
 
 What you will see here is a functional application with working links and responsive images. The Nav bar is consisten on each page, and has links that let you navigate between the pages. The portfolio has my personal information, including a resume and an external teacher porfolio. 

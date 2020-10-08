@@ -1,21 +1,4 @@
 
-#column {
-    border: 80px;
-    border-color: tomato;
-    padding-inline-start: 20px;
-    padding-top: 50px;
-    padding-right: 50px;
-    padding-bottom: 50px;
-    padding-left: 50px;
-    
-}
-.col h2{
-    padding: 20px;
-
-}
-.container{
-    padding: 0px;
-}
 .container ul {
     list-style-type: none;
 }
