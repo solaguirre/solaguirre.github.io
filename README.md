@@ -28,9 +28,15 @@ This page includes information about me. This page also includes a headshot to b
 ## Portfolio
 This page has my projects linked. For now there are placeholder images and text. It also has links to my professional resume and my teacher portfolio.
 [![portfolio-SC.png](https://i.postimg.cc/vHPK1dQj/portfolio-SC.png)](https://postimg.cc/dLy6XpZm)
+
 ## Contact Me
-I created a contact form on this page. People can include their contact information and a message to get in touch with me. This page also has the links to all my social media pages. 
-[![contact-SC.png](https://i.postimg.cc/1Rr2Qqby/contact-SC.png)](https://postimg.cc/ThhCjpRs)
+
+* Marisol Aguirre
+Junior Full Stack Developer
+Contact: soulaguirre@gmail.com
+GitHub: https://github.com/solaguirre
+
+Project Link: [https://solaguirre.github.io/](https://solaguirre.github.io/)
 
 
 
