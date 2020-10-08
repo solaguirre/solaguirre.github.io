@@ -37,12 +37,12 @@ This page has my projects linked. For now there are placeholder images and text.
 
 ## Contact Me
 
-* Marisol Aguirre
-Junior Full Stack Developer
-Contact: soulaguirre@gmail.com
-GitHub: https://github.com/solaguirre
+### Marisol Aguirre
+* Junior Full Stack Developer - UA Coding Bootcamp
+* Contact: soulaguirre@gmail.com
+* GitHub: https://github.com/solaguirre
 
-Project Link: [https://solaguirre.github.io/](https://solaguirre.github.io/)
+* Project Link: [https://solaguirre.github.io/](https://solaguirre.github.io/)
 
 
 
