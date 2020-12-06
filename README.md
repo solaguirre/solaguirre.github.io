@@ -33,7 +33,7 @@ This page includes information about me. This page also includes a headshot to b
 
 ## Portfolio
 This page has my projects linked. For now there are placeholder images and text. It also has links to my professional resume and my teacher portfolio.
-[![Screen-Shot-2020-10-07-at-11-48-31-PM.png](https://i.postimg.cc/XJFshyXV/Screen-Shot-2020-10-07-at-11-48-31-PM.png)](https://postimg.cc/348j0Ng6)
+[![Screen-Shot-2020-12-05-at-11-54-47-PM.png](https://i.postimg.cc/xd223wvs/Screen-Shot-2020-12-05-at-11-54-47-PM.png)](https://postimg.cc/gxNQYBBR)
 
 ## Contact Me
 ### Marisol Aguirre
