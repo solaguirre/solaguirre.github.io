@@ -15,14 +15,29 @@
   </p>
 </p>
 
-## solaguirre.github.io
+## Description
 
-This is the start of my professional portfolio. I have included an About Me page, a Portfolio page and a Contact Page. There are only placeholder images for now, since we haven't completed any major projects.
+This is the start of my professional portfolio. I have included an About Me page, a Portfolio page displaying the projects I worked on a student. 
 
-What you will see here is a functional application with working links and responsive images. The Nav bar is consisten on each page, and has links that let you navigate between the pages. The portfolio has my personal information, including a resume and an external teacher porfolio. 
+What you will see here is a functional application with working links and responsive images. The Nav bar is consistent on each page, and has links that let you navigate between the pages. The portfolio has my personal information, including a link to my resume and an an additional external teacher porfolio. 
 
-## Created With
+## Table of Contents
 
+ * [Description](#description)
+    
+ * [Installation](#installation)
+    
+ * [Usage](#usage)
+    
+ * [License](#license)
+    
+ * [Contributing](#contributing)
+    
+ * [Tests](#tests)
+    
+ * [Questions](#questions)
+
+## This project was created with:
 * HTML
 * CSS
 * Bootstrap
@@ -32,8 +47,11 @@ This page includes information about me. This page also includes a headshot to b
 [![Screen-Shot-2020-10-07-at-11-48-21-PM.png](https://i.postimg.cc/L5pxM6Zj/Screen-Shot-2020-10-07-at-11-48-21-PM.png)](https://postimg.cc/gXgVVps0)
 
 ## Portfolio
-This page has my projects linked. For now there are placeholder images and text. It also has links to my professional resume and my teacher portfolio.
+This page displays my current projects. 
 [![Screen-Shot-2020-12-05-at-11-54-47-PM.png](https://i.postimg.cc/xd223wvs/Screen-Shot-2020-12-05-at-11-54-47-PM.png)](https://postimg.cc/gxNQYBBR)
+
+## License 
+MIT License
 
 ## Contact Me
 ### Marisol Aguirre
